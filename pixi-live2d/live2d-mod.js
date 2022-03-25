@@ -46,9 +46,6 @@ const modelHaru = {
 	}, {
 		"name": "What do you mean",
 		"file": "assets/haru/expressions/What do you mean.exp.json"
-	}, {
-		"name": "song",
-		"file": "assets/haru/expressions/song.exp.json"
 	}],
 	"layout": {
 		"center_x": 0,
@@ -107,9 +104,6 @@ const modelHaru = {
 			},{
 			"file": "assets/haru/motions/love.mtn",
 			"sound": "assets/haru/sounds/love.mp3"
-			},{
-			"file": "assets/haru/motions/song.mtn",
-			"sound": "assets/haru/sounds/song.mp3"
 		}]
 	}
 };
